@@ -1,2 +1,4 @@
 Esta es mi file
 mi file es esta
+This is my file
+My file is this one
